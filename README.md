@@ -1,4 +1,4 @@
-# TextCNN---textclassification
+# TextCNN
 chinese-text classification task based on CNN model
 
 ----------------------------------------------------
